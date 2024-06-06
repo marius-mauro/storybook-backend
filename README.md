@@ -78,7 +78,7 @@ Storybook is an innovative AI application that allows users to generate personal
 
 ## Conclusion
 
-Storybook is a powerful tool for creating personalized and engaging stories for children. By combining user inputs with advanced AI techniques, it offers a unique and enjoyable storytelling experience. We hope you and your little ones enjoy the magical stories created with Storybook!
+Storybook is an AI powered app for creating personalized and engaging stories for children. By combining user inputs with AI techniques, it offers a unique and enjoyable storytelling experience. We hope you and your little ones enjoy the magical stories created with Storybook!
 
 ## Acknowledgements
 
